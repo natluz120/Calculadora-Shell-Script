@@ -19,5 +19,8 @@ Este repositório contém um script em Python para realizar operações matemát
 ### Pré-requisitos
 Certifique-se de ter o Python instalado em sua máquina. Você pode verificar a instalação com o comando:
 ```bash
-python --version
+   python --version
+OU
+   python3 --version
+
 
