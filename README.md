@@ -6,4 +6,18 @@ Para executar o script `calculadora.sh`, siga os passos abaixo:
 2. Execute o arquivo no terminal
    ```bash
        ./calculadora.sh
-   
+
+
+# Calculadora em Python
+
+Este repositório contém um script em Python para realizar operações matemáticas básicas, como soma, subtração, multiplicação e divisão.
+
+---
+
+## Como executar o código Python
+
+### Pré-requisitos
+Certifique-se de ter o Python instalado em sua máquina. Você pode verificar a instalação com o comando:
+```bash
+python --version
+
